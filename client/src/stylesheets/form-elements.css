@@ -1,0 +1,28 @@
+input,
+select {
+  height: 40px !important;
+  padding: 10px 20px !important;
+  border: 2px solid rgb(131, 130, 130) !important;
+  width: 100%;
+  border-radius: 2px !important;
+}
+
+.ant-form-item {
+  margin-bottom: 5px !important;
+}
+
+button {
+  padding: 0px 25px;
+  border-radius: 2px;
+  height: 40px !important;
+}
+.primary-contained-btn {
+  background-color: var(--primary);
+  color: white;
+}
+
+.primary-outlined-btn {
+  background-color: white;
+  color: var(--primary);
+  border: 2px solid var(--primary);
+}
