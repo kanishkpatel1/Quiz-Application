@@ -16,7 +16,7 @@ Quiz-Application Using MERN Stack Technology: In this project there are two port
 <img src=""/>
 <i><h2>8) User's Profile </h2></i>
 <img src=""/>
-<i><h2>9) Resul of exam </h2></i>
+<i><h2>9) Instructions </h2></i>
 <img src=""/>
 
 <i><h2>10) Summary of User's answered and Correct Answer </h2></i>
