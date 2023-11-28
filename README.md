@@ -13,16 +13,16 @@ Quiz-Application Using MERN Stack Technology: In this project there are two port
 <i><h2>6) Edit Exam by Admin </h2></i>
 <img src="https://github.com/kanishkpatel1/Quiz-Application/blob/main/images/admin_edit_exam.png"/>
 <i><h2>7) Edit Que by Admin </h2></i>
-<img src=""/>
+<img src="https://github.com/kanishkpatel1/Quiz-Application/blob/main/images/admin_edit_que.png"/>
 <i><h2>8) User's Profile </h2></i>
-<img src=""/>
+<img src="https://github.com/kanishkpatel1/Quiz-Application/blob/main/images/user_home.png"/>
 <i><h2>9) Instructions before exam </h2></i>
-<img src=""/>
+<img src="https://github.com/kanishkpatel1/Quiz-Application/blob/main/images/User_instruction.png"/>
 
-<i><h2>10) Summary of User's answered and Correct Answer </h2></i>
-<img src=""/>
+<i><h2>10) User Result</h2></i>
+<img src="https://github.com/kanishkpatel1/Quiz-Application/blob/main/images/user_result.png"/>
 
 <i><h2>11) Reports of all users that can be seen by only admin </h2></i>
 <img src="https://github.com/kanishkpatel1/Quiz-Application/blob/main/images/admin_report.png"/>
 <i><h2>12) User can see only his/her report </h2></i>
-<img src=""/>
+<img src="https://github.com/kanishkpatel1/Quiz-Application/blob/main/images/user_report.png"/>
