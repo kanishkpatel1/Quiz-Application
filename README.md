@@ -52,4 +52,3 @@ npm start
 <img src="https://github.com/kanishkpatel1/Quiz-Application/blob/main/images/admin_report.png"/>
 <i><h2>12) User can see only his/her report </h2></i>
 <img src="https://github.com/kanishkpatel1/Quiz-Application/blob/main/images/user_report.png"/>
-
