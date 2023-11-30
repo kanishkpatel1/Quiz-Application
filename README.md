@@ -1,5 +1,22 @@
+
 # Quiz-Application
 Quiz-Application Using MERN Stack Technology: In this project there are two portals one for admin and one for user <br><b>Admin:</b> admin can create quiz , add question to the quiz , modify the quiz , modify the answers or questions and can view reports of all users <br><b>User:</b> user can login and attempt the quiz and view the result and find the answers of all the question  quiz completion
+##How to run this 
+## Make sure you have your own url for mongodb cluster add it in the .env file to store data in your databases for Ex 
+``` mongodb+srv://<Name>:<Password>@cluster0.4u4rtje.mongodb.net/```
+
+```npm install``` <br\>
+
+``` npm start```
+##then go  to client folder 
+``` cd .\client\ ```
+
+``` npm install```
+
+```npm start```
+
+
+
 <i><h2>1) Registration Page</h2></i>
 <img src="https://github.com/kanishkpatel1/Quiz-Application/blob/main/images/register.png"/>
 <i><h2>2) Login Page</h2></i>
